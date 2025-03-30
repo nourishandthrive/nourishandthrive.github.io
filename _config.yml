@@ -6,7 +6,7 @@ nav:
   main:
     # books: "/books"
     services: "/projects"
-    blog: "/blog"
+    # blog: "/blog"
     talks: "/speaking"
     # photos: "https://www.flickr.com/photos/xyz/albums/"
   blog:
