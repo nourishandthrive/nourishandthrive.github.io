@@ -5,9 +5,9 @@ url: "https://nourishandthrive.github.io/"
 nav:
   main:
     # books: "/books"
+    services: "/projects"
     blog: "/blog"
     talks: "/speaking"
-    # projects: "/projects"
     # photos: "https://www.flickr.com/photos/xyz/albums/"
   blog:
     all: "/blog"
@@ -16,7 +16,7 @@ nav:
     rss: "/feed.xml"
 
 # Bio settings
-name: "Arpita"
+name: "Home"
 description: "The home page of Nourish And Thrive."
 thumbnail_path: "profile-photos/arpita-profile-pic.jpeg"
 

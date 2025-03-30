@@ -1,6 +1,19 @@
-- name: "Arpita's project"
-  date: "2025"
+- name: "1 hour comprehensive consultation"
   description: |
-    Add description
-  url: "https://www.xyz.io"
-  image: "test.png"
+    <p>During this initial consultation, I will understand your health goals, medical history and lifestyle and provide recommendations to support you in achieving your goals. I will also schedule a follow up appointment to assess how the plan is working for you and whether any modifications are needed.</p>
+    <ul>
+    <li>Time period: 60 minutes</li>
+    <li>Price: 150 CAD</li>
+    <li>Booking options: <a href="mailto:hiraniarpita@gmail.com" target="_blank">Email<a>, <a href="https://www.instagram.com/dietitian_nourishandthrive" target="_blank">Instagram</a>, <a href="https://www.facebook.com/arpita.khalsa" target="_blank">Facebook</a></li>
+    </ul>
+  # url: "https://www.xyz.io"
+  image: "consultation.png"
+- name: "Follow up on previous appointments"
+  description: |
+    <p>Follow up appointments are scheduled to assess your goals, celebrate wins and brainstorm strategies to overcome challenges.</p>
+    <ul>
+    <li>Time period: 60 minutes</li>
+    <li>Price: 100 CAD</li>
+    <li>Booking options: <a href="mailto:hiraniarpita@gmail.com" target="_blank">Email<a>, <a href="https://www.instagram.com/dietitian_nourishandthrive" target="_blank">Instagram</a>, <a href="https://www.facebook.com/arpita.khalsa" target="_blank">Facebook</a></li>
+    </ul>
+  image: "follow-up.png"
