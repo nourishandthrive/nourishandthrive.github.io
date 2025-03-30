@@ -1,4 +1,4 @@
-- name: "1 hour comprehensive consultation"
+- name: "1 hour Comprehensive Initial Consultation"
   description: |
     <p>During this initial consultation, I will understand your health goals, medical history and lifestyle and provide recommendations to support you in achieving your goals. I will also schedule a follow up appointment to assess how the plan is working for you and whether any modifications are needed.</p>
     <ul>
@@ -8,7 +8,7 @@
     </ul>
   # url: "https://www.xyz.io"
   image: "consultation.png"
-- name: "Follow up on previous appointments"
+- name: "Follow up Appointment"
   description: |
     <p>Follow up appointments are scheduled to assess your goals, celebrate wins and brainstorm strategies to overcome challenges.</p>
     <ul>
