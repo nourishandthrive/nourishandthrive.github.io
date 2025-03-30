@@ -1,0 +1,6 @@
+- name: "Book1"
+  date: "2024"
+  description: |
+   This book will be written in the future.
+  url: "https://www.bookurl.com/"
+  image: "book-image-small.png"

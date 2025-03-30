@@ -1,0 +1,75 @@
+# Website settings
+url: "https://nourishandthrive.github.io/"
+
+# Internal nav
+nav:
+  main:
+    # books: "/books"
+    blog: "/blog"
+    talks: "/speaking"
+    # projects: "/projects"
+    # photos: "https://www.flickr.com/photos/xyz/albums/"
+  blog:
+    all: "/blog"
+    popular: "/blog/popular"
+    tags: "/blog/tags"
+    rss: "/feed.xml"
+
+# Bio settings
+name: "Arpita"
+description: "The home page of Nourish And Thrive."
+thumbnail_path: "profile-photos/arpita-profile-pic.jpeg"
+
+# URLs
+contact_urls:
+  # twitter:
+  #   url: "https://twitter.com/xyz"
+  #   label: "Twitter"
+  #   icon: "fa-brands fa-twitter-square"
+  #   username: "@xyz"
+  linkedin:
+    url: "https://www.linkedin.com/in/arpita-khalsa-14754419/"
+    label: "LinkedIn"
+    icon: "fa-brands fa-linkedin"
+  # bluesky:
+  #   url: "https://bsky.app/profile/xyz.bsky.social"
+  #   label: "Bluesky"
+  #   icon: "fa-brands fa-square-bluesky"
+  facebook:
+    url: "https://www.facebook.com/arpita.khalsa"
+    label: "Facebook"
+    icon: "fa-brands fa-facebook-square"
+  instagram:
+    url: "https://www.instagram.com/arpita.khalsa"
+    label: "Instagram"
+    icon: "fa-brands fa-square-instagram"
+  # slideshare:
+  #   url: "https://www.slideshare.net/xyz"
+  #   label: "SlideShare"
+  #   icon: "fa-brands fa-slideshare"
+  # github:
+  #   url: "https://github.com/xyz/"
+  #   label: "GitHub"
+  #   icon: "fa-brands fa-github-square"
+  email:
+    url: "mailto:hiraniarpita@gmail.com"
+    label: "Email"
+    value: "hiraniarpita@gmail.com"
+    icon: "fa-solid fa-envelope-square"
+
+# Jekyll build settings
+paginate: 10
+paginate_path: "/blog/page:num"
+permalink: "/blog/:year/:month/:day/:title/"
+sass:
+  sass_dir: "/assets/css"
+  style: :compressed
+highlighter: rouge
+timezone: 'America/Los_Angeles'
+repository: nourishandthrive/nourishandthrive.github.io
+
+# Plugins (GitHub Pages only support a few)
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate
