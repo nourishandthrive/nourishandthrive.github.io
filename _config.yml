@@ -5,7 +5,7 @@ url: "https://nourishandthrive.github.io/"
 nav:
   main:
     # books: "/books"
-    services: "/projects"
+    services: "/services"
     # blog: "/blog"
     talks: "/speaking"
     # photos: "https://www.flickr.com/photos/xyz/albums/"
